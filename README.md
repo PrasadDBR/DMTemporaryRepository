@@ -9,5 +9,3 @@ this repository is created for the purpose of practicing GIT commands.
 |Sl.No.| Command|
 |------|--------|
 |      |        |
-
-![](dm-import-process-v2.jpg)

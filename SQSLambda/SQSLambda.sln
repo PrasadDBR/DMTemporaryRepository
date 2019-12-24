@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQSLambda", "SQSLambda\SQSLambda.csproj", "{AC545A3A-0CB2-417A-8778-E3680B27ADCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQSLambda.Tests", "SQSLambda.Tests\SQSLambda.Tests.csproj", "{5DB7A04C-3D99-49CB-9D06-71A7C4D0F2B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC545A3A-0CB2-417A-8778-E3680B27ADCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC545A3A-0CB2-417A-8778-E3680B27ADCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC545A3A-0CB2-417A-8778-E3680B27ADCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC545A3A-0CB2-417A-8778-E3680B27ADCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB7A04C-3D99-49CB-9D06-71A7C4D0F2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB7A04C-3D99-49CB-9D06-71A7C4D0F2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB7A04C-3D99-49CB-9D06-71A7C4D0F2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB7A04C-3D99-49CB-9D06-71A7C4D0F2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC782C0-B872-4788-9026-245BDAB79985}
+	EndGlobalSection
+EndGlobal

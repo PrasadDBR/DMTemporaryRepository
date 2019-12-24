@@ -1,0 +1,9 @@
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\bin\Debug\netcoreapp2.1\SQSLambda.deps.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\bin\Debug\netcoreapp2.1\SQSLambda.runtimeconfig.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\bin\Debug\netcoreapp2.1\SQSLambda.runtimeconfig.dev.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\bin\Debug\netcoreapp2.1\SQSLambda.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\bin\Debug\netcoreapp2.1\SQSLambda.pdb
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\obj\Debug\netcoreapp2.1\SQSLambda.AssemblyInfoInputs.cache
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\obj\Debug\netcoreapp2.1\SQSLambda.AssemblyInfo.cs
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\obj\Debug\netcoreapp2.1\SQSLambda.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda\obj\Debug\netcoreapp2.1\SQSLambda.pdb

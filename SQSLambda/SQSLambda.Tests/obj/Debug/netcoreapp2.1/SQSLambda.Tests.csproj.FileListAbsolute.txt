@@ -1,0 +1,16 @@
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.Tests.deps.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.Tests.runtimeconfig.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.Tests.runtimeconfig.dev.json
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.Tests.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.Tests.pdb
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\bin\Debug\netcoreapp2.1\SQSLambda.pdb
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.csprojAssemblyReference.cache
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.AssemblyInfoInputs.cache
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.AssemblyInfo.cs
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.csproj.CopyComplete
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.dll
+D:\Backup_Projects\DMTemporaryRepository\SQSLambda\SQSLambda.Tests\obj\Debug\netcoreapp2.1\SQSLambda.Tests.pdb
